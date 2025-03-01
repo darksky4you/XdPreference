@@ -182,4 +182,6 @@ For more information, refer to the XML attributes and usage examples above to in
 
 
 
-SignedBy - `@darksky4you`
+## License
+This project is created and maintained by `@darksky4you`. Feel free to modify and use it in your projects.
+
