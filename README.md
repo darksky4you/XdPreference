@@ -22,9 +22,7 @@
 - **Requires Understanding of Broadcast Intents**: Broadcasting intents on preference changes may require additional configuration in certain app architectures.
 
 ## Developer Info
-- **Developer**: `@darksky4you`
-- **Version**: `v2.0`
-- **License**: MIT License
+- **Developer**: `@darksky4you (Telegram)`
 
 ## Release Page
 For the latest releases, check out the [Release Page](https://github.com/darksky4you/XdPreference/releases).
