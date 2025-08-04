@@ -15,6 +15,12 @@
 * Long-click midpoint or min/max behavior for faster control
 * Optional hiding of navigation buttons
 
+## Changelog
+`04 Aug 2025`
+* Updated The Layout a bit.
+* New attr `hideReset` to Hide the Reset Button.
+* Improvement in the logic.
+
 ## Usage
 
 ### XML Declaration
@@ -36,6 +42,7 @@ To use `XdSeekBarPreference` in your XML preferences:
     continuousUpdates="true"
     defaultValueText="Default"
     hideNav="false"
+    hideReset="false"
     intent="com.example.ACTION_UPDATE" />
 ```
 
@@ -55,7 +62,8 @@ To use `XdSeekBarPreference` in your XML preferences:
 | `defaultValueText`     | `String`  | Optional text to show for default value                |
 | `storeType`            | `Integer` | Storage type: `0` (System), `1` (Secure), `2` (Global) |
 | `isProp`               | `Boolean` | Whether to use system properties                       |
-| `hideNav`              | `Boolean` | If true, hides the +/- buttons                         |
+| `hideNav`              | `Boolean` | If true, hides the +/- buttons
+| `hideReset`              | `Boolean` | If true, hides the Reset button                         |
 | `intent`               | `String`  | Optional broadcast intent to send on value change      |
 
 ## Behavior
