@@ -5,6 +5,12 @@
 
 This preference supports long-click actions to restore default values, making it a more interactive and customizable option for Android settings.
 
+## Changelog
+`04 Aug 2025`
+* Fixed `SetProp` Issue.
+* Updated Summary Showing Logic, `android:summary="%s"` for showing the Actual Value.
+* Improvement in the logic.
+
 ## XML Attributes
 
 ### 1. `storeType` (int)
