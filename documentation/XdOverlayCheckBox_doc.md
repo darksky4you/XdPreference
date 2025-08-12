@@ -11,6 +11,10 @@
 - **Easy integration**: Simple to use within preference or settings XML.
 
 ---
+## Changelog
+
+`12 Aug 2025`
+* Improvement in the logic.
 
 ## **Attributes**
 

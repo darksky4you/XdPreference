@@ -4,7 +4,11 @@
 
 `XdDropDownPreference` is a custom subclass of AndroidX's `DropDownPreference`, designed for advanced configuration in Android settings UIs. It allows preference values to be saved to system-level settings or as system properties, instead of SharedPreferences. It also includes broadcast support on value changes and long-press-to-reset functionality.
 ---
-
+## Changelog
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
+* Improvement in the logic.
 ## XML Attributes
 
 ### 1. `storeType` (int)

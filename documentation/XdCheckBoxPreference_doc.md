@@ -10,6 +10,11 @@
 - Allows resetting to default value on long press
 - Non-persistent storage behavior to handle dynamic updates
 
+## Changelog
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
+* Improvement in the logic.
 ## Usage
 
 ### XML Declaration

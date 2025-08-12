@@ -21,6 +21,11 @@
 * New attr `hideReset` to Hide the Reset Button.
 * Improvement in the logic.
 
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
+* Improvement in the logic.
+
 ## Usage
 
 ### XML Declaration

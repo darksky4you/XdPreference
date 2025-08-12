@@ -9,6 +9,10 @@ This preference supports long-click actions to restore default values, making it
 `04 Aug 2025`
 * Fixed `SetProp` Issue.
 * Updated Summary Showing Logic, `android:summary="%s"` for showing the Actual Value.
+
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
 * Improvement in the logic.
 
 ## XML Attributes

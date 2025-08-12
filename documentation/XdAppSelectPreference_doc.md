@@ -6,6 +6,12 @@
 
 ---
 
+## Changelog
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
+* Pre-Selected app will show at top.
+* Improvement in the logic.
 ## XML Attributes
 
 ### 1. `storeType` (int)

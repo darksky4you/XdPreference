@@ -8,6 +8,12 @@
 This component is ideal for developers looking to build modular and system-aware preferences for custom Android builds or advanced configuration UIs.
 
 ---
+## Changelog
+
+`12 Aug 2025`
+* Fixed Intent Spamming on Fragment opening.
+* Fixed Initial Value set Logic.
+* Improvement in the logic.
 
 ## XML Attributes
 
